@@ -37,7 +37,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 ### 🖼️ Analyse d’images, visages & forensics
 - [AperiSolve](https://www.aperisolve.com/)  
   Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR.
-- [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier)  
+- [Photo Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)  
   Outils gratuits de forensique sur images : ELA, grossissement, détection de manipulations.
 - [PimEyes](https://pimeyes.com/en)  
   Recherche inversée de visages à partir d’une photo pour retrouver d’autres occurrences en ligne.
