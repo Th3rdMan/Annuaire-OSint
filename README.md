@@ -36,7 +36,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://www.aperisolve.com/favicon.ico" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
+| <img src="https://www.aperisolve.com/static/images/watermelon.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
 | <img src="https://29a.ch/favicon.ico" width="24"/> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Outils gratuits de forensique sur images : ELA, grossissement, détection de manipulations. |
 | <img src="https://pimeyes.com/favicon.ico" width="24"/> | [PimEyes](https://pimeyes.com/en) | Recherche inversée de visages à partir d’une photo pour retrouver d’autres occurrences en ligne. |
 
@@ -46,7 +46,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://web.archive.org/favicon.ico" width="24"/> | [Web Archive (Wayback Machine)](https://web.archive.org/) | Consultation et sauvegarde de versions anciennes de pages web. |
+| <img src="https://web-static.archive.org/_static/images/archive.ico" width="24"/> | [Web Archive (Wayback Machine)](https://web.archive.org/) | Consultation et sauvegarde de versions anciennes de pages web. |
 | <img src="https://urlscan.io/favicon.ico" width="24"/> | [urlscan.io](https://urlscan.io/) | Analyse automatisée d’URL : capture de page, ressources chargées, scripts, détails techniques et historiques. |
 
 ---
