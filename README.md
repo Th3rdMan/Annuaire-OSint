@@ -75,6 +75,6 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="(https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage, analyse de fichiers et de données (polyvalent). |
+| <img src="https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage, analyse de fichiers et de données (polyvalent). |
 | <img src="https://www.dcode.fr/favicon.ico" width="24"/> | [dCode - Identification de chiffrement](https://www.dcode.fr/identification-chiffrement) | Identification automatique de type de chiffrement, conversion et outils cryptographiques (hash, base, ciphers…). |
 
