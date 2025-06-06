@@ -27,7 +27,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://overpass-turbo.eu/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
+| <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
 | <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise par coordonnées uniques de 3 mots. |
 
 ---
