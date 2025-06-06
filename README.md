@@ -11,7 +11,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Plateforme        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://isfred.fr/files/d5c08f5dc5e993f760acbaf695654b03/icone.png" width="24"/> | [Isfred](https://isfred.fr/) | Plateforme française de challenges interactifs, quiz et cours OSINT pour progresser, s'entraîner ou s’autoévaluer. |
+| <[img src="https://isfred.fr/files/d5c08f5dc5e993f760acbaf695654b03/icone.png"](https://isfred.fr/files/d5c08f5dc5e993f760acbaf695654b03/icone.png) width="24"/> | [Isfred](https://isfred.fr/) | Plateforme française de challenges interactifs, quiz et cours OSINT pour progresser, s'entraîner ou s’autoévaluer. |
 | <img src="https://oscarzulu.org/favicon.ico" width="24"/> | [Oscar Zulu](https://oscarzulu.org/) | Communauté active organisant régulièrement des CTF OSINT, partage de ressources, articles, événements et ateliers en ligne. |
 | <img src="https://osint4fun.eu/favicon.ico" width="24"/> | [OSINT4Fun](https://www.osint4fun.eu/) | Communauté, ateliers, challenges et événements OSINT francophones (organisation de CTF, calendrier de l’Avent, guides pratiques). |
 | <img src="https://osintfr.com/favicon.ico" width="24"/> | [OSINTFR](https://osintfr.com/) | Blog, veille, actualités et ressources francophones pour l’OSINT, cybersécurité et investigation. |
