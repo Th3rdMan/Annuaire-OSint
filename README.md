@@ -56,8 +56,8 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://epieos.com/favicon.ico" width="24"/> | [Epieos](https://epieos.com/) | Recherche d’informations liées à une adresse e-mail (profils associés, services tiers, leaks…). |
-| <img src="https://whatsmyname.app/favicon.ico" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche automatisée de la présence d’un pseudo sur des centaines de sites (profil direct). |
-| <img src="https://usercheck.oscarzulu.org/favicon.ico" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes francophones et internationales. |
+| <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche automatisée de la présence d’un pseudo sur des centaines de sites (profil direct). |
+| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes francophones et internationales. |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24"/> | [Social Searcher](https://www.social-searcher.com/) | Recherche en temps réel sur les réseaux sociaux publics (mot, pseudo, hashtag). |
 
 ---
@@ -67,7 +67,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://builtwith.com/favicon.ico" width="24"/> | [BuiltWith](https://builtwith.com/fr/) | Analyse technique d’un site web : CMS, frameworks, scripts, outils marketing, serveurs. |
-| <img src="https://www.shodan.io/favicon.ico" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
+| <img src="https://www.shodan.io/static/img/favicon-60c1b1cd.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
 
 ---
 
@@ -75,6 +75,6 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://gchq.github.io/CyberChef/images/favicon.png" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage, analyse de fichiers et de données (polyvalent). |
+| <img src="(https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage, analyse de fichiers et de données (polyvalent). |
 | <img src="https://www.dcode.fr/favicon.ico" width="24"/> | [dCode - Identification de chiffrement](https://www.dcode.fr/identification-chiffrement) | Identification automatique de type de chiffrement, conversion et outils cryptographiques (hash, base, ciphers…). |
 
