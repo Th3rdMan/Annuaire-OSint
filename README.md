@@ -39,6 +39,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.aperisolve.com/static/images/watermelon.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
 | <img src="https://29a.ch/favicon.ico" width="24"/> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Outils gratuits de forensique sur images : ELA, grossissement, détection de manipulations. |
 | <img src="https://pimeyes.com/favicon.ico" width="24"/> | [PimEyes](https://pimeyes.com/en) | Recherche inversée de visages à partir d’une photo pour retrouver d’autres occurrences en ligne. |
+| <img src="https://www.tineye.com/favicon.ico" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences d’une photo. |
 
 ---
 
@@ -59,6 +60,16 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche automatisée de la présence d’un pseudo sur des centaines de sites (profil direct). |
 | <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes francophones et internationales. |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24"/> | [Social Searcher](https://www.social-searcher.com/) | Recherche en temps réel sur les réseaux sociaux publics (mot, pseudo, hashtag). |
+| <img src="https://usersearch.org/favicon.ico" width="24"/> | [UserSearch](https://usersearch.org/) | Recherche la présence d’un pseudo ou d’un e-mail sur de nombreux services, réseaux et plateformes. |
+| <img src="https://www.namechk.com/favicon.ico" width="24"/> | [Namechk](https://namechk.com/) | Vérification de disponibilité d’un pseudo ou d’un nom sur des centaines de réseaux sociaux et plateformes. |
+
+---
+
+### 🔒 Sécurité & comptes compromis
+
+|        | Outil        | Description |
+|:------:|:------------------|:------------|
+| <img src="https://haveibeenpwned.com/Content/Images/favicon.ico" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
 
 ---
 
