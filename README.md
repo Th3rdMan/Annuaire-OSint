@@ -69,7 +69,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://haveibeenpwned.com/favicon.ico" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
+| <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
 
 ---
 
