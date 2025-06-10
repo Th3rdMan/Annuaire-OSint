@@ -77,8 +77,13 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://builtwith.com/favicon.ico" width="24"/> | [BuiltWith](https://builtwith.com/fr/) | Analyse technique d’un site web : CMS, frameworks, scripts, outils marketing, serveurs. |
+| <img src="https://builtwith.com/favicon.ico" width="24"/> | [BuiltWith](https://builtwith.com/fr/) | Analyse technique d’un site web : CMS, frameworks, scripts, outils marketing, serveurs. |
 | <img src="https://www.shodan.io/static/img/favicon-60c1b1cd.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
+| <img src="https://viewdns.info/favicon.ico" width="24"/> | [ViewDNS](https://viewdns.info/) | Outils d’analyse DNS, WHOIS, IP, domaines et géolocalisation. |
+| <img src="https://synapsint.com/favicon.ico" width="24"/> | [SynapsInt](https://synapsint.com/) | Plateforme multifonction : recherche d’infos, domaines, emails, IP, réseaux sociaux, leaks, etc. |
+| <img src="https://osint.sh/favicon.ico" width="24"/> | [osint.sh](https://osint.sh/) | Recherche rapide de métadonnées, IP, DNS, domaine, WHOIS, S3, bucket, leaks, etc. |
+| <img src="https://subdomainfinder.c99.nl/favicon.ico" width="24"/> | [Subdomain Finder (C99)](https://subdomainfinder.c99.nl/) | Recherche et découverte automatisée de sous-domaines publics pour un domaine. |
+| <img src="https://www.ipqualityscore.com/favicon.ico" width="24"/> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | Vérification de réputation et analyse de risque d’une adresse IP : proxy, spam, fraude, géo, etc. |
 
 ---
 
