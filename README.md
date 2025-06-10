@@ -39,7 +39,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.aperisolve.com/static/images/watermelon.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
 | <img src="https://29a.ch/favicon.ico" width="24"/> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Outils gratuits de forensique sur images : ELA, grossissement, détection de manipulations. |
 | <img src="https://pimeyes.com/favicon.ico" width="24"/> | [PimEyes](https://pimeyes.com/en) | Recherche inversée de visages à partir d’une photo pour retrouver d’autres occurrences en ligne. |
-| <img src="https://www.tineye.com/favicon.ico" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences d’une photo. |
+| <img src="https://tineye.com/assets/touch_icons/touch-icon-192x192.png" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences d’une photo. |
 
 ---
 
@@ -69,7 +69,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://haveibeenpwned.com/Content/Images/favicon.ico" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
+| <img src="https://haveibeenpwned.com/favicon.ico" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
 
 ---
 
