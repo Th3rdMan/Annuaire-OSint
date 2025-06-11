@@ -86,7 +86,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://i.ibb.co/d0XVC2FQ/subdomainfinder-0.png" width="24"/> | [Subdomain Finder (C99)](https://subdomainfinder.c99.nl/) | Recherche et découverte automatisée de sous-domaines publics pour un domaine. |
 | <img src="https://i.ibb.co/dsT5RhJ9/snapsint.png" width="24"/> | [SynapsInt](https://synapsint.com/) | Plateforme multifonction : recherche d’infos, domaines, emails, IP, réseaux sociaux, leaks, etc. |
 | <img src="https://viewdns.info/favicon.ico" width="24"/> | [ViewDNS](https://viewdns.info/) | Outils d’analyse DNS, WHOIS, IP, domaines et géolocalisation. |
-| <img src="https://www.shodan.io/static/img/favicon-60c1b1cd.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
+| <img src="https://www.shodan.io/static/img/apple-touch-icon-192-4eb04af5.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
 
 ---
 
