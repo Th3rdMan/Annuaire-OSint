@@ -27,10 +27,10 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
-| <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise par coordonnées uniques de 3 mots. |
 | <img src="https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/tMT3WIParw8.png" width="24"/> | [Mapillary](https://www.mapillary.com/app/) | Photos de rues collaboratives, vues piétonnes mondiales, exploration visuelle de quartiers et de routes. |
+| <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
 | <img src="https://suncalc.org/favicon.ico" width="24"/> | [SunCalc](https://suncalc.org/) | Outil d’analyse de l’ensoleillement, calcul des ombres et des angles solaires à une date/heure précise. |
+| <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise par coordonnées uniques de 3 mots. |
 
 ---
 
@@ -59,11 +59,11 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://epieos.com/favicon.ico" width="24"/> | [Epieos](https://epieos.com/) | Recherche d’informations liées à une adresse e-mail (profils associés, services tiers, leaks…). |
-| <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche automatisée de la présence d’un pseudo sur des centaines de sites (profil direct). |
-| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes francophones et internationales. |
+| <img src="https://www.namechk.com/favicon.ico" width="24"/> | [Namechk](https://namechk.com/) | Vérification de disponibilité d’un pseudo ou d’un nom sur des centaines de réseaux sociaux et plateformes. |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24"/> | [Social Searcher](https://www.social-searcher.com/) | Recherche en temps réel sur les réseaux sociaux publics (mot, pseudo, hashtag). |
 | <img src="https://usersearch.org/favicon.ico" width="24"/> | [UserSearch](https://usersearch.org/) | Recherche la présence d’un pseudo ou d’un e-mail sur de nombreux services, réseaux et plateformes. |
-| <img src="https://www.namechk.com/favicon.ico" width="24"/> | [Namechk](https://namechk.com/) | Vérification de disponibilité d’un pseudo ou d’un nom sur des centaines de réseaux sociaux et plateformes. |
+| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes francophones et internationales. |
+| <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche automatisée de la présence d’un pseudo sur des centaines de sites (profil direct). |
 
 ---
 
@@ -71,8 +71,8 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
-| <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
 | <img src="https://s3.amazonaws.com/rapidapi-prod-user/372ffabd-45c0-4270-b3cc-49f92bb3b23f" width="24"/> | [BreachDirectory](https://breachdirectory.org/) | Vérifie si des données personnelles figurent dans des bases de données compromises. |
+| <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
 
 ---
 
@@ -81,12 +81,12 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://builtwith.com/favicon.ico" width="24"/> | [BuiltWith](https://builtwith.com/fr/) | Analyse technique d’un site web : CMS, frameworks, scripts, outils marketing, serveurs. |
-| <img src="https://www.shodan.io/static/img/favicon-60c1b1cd.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
-| <img src="https://viewdns.info/favicon.ico" width="24"/> | [ViewDNS](https://viewdns.info/) | Outils d’analyse DNS, WHOIS, IP, domaines et géolocalisation. |
-| <img src="https://i.ibb.co/dsT5RhJ9/snapsint.png" width="24"/> | [SynapsInt](https://synapsint.com/) | Plateforme multifonction : recherche d’infos, domaines, emails, IP, réseaux sociaux, leaks, etc. |
+| <img src="https://www.ipqualityscore.com/templates/img/icons/fav/favicon-32x32.png" width="24"/> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | Vérification de réputation et analyse de risque d’une adresse IP : proxy, spam, fraude, géo, etc. |
 | <img src="https://i.ibb.co/FLwbFsmm/osintsh.png" width="24"/> | [osint.sh](https://osint.sh/) | Recherche rapide de métadonnées, IP, DNS, domaine, WHOIS, S3, bucket, leaks, etc. |
 | <img src="https://i.ibb.co/d0XVC2FQ/subdomainfinder-0.png" width="24"/> | [Subdomain Finder (C99)](https://subdomainfinder.c99.nl/) | Recherche et découverte automatisée de sous-domaines publics pour un domaine. |
-| <img src="https://www.ipqualityscore.com/templates/img/icons/fav/favicon-32x32.png" width="24"/> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | Vérification de réputation et analyse de risque d’une adresse IP : proxy, spam, fraude, géo, etc. |
+| <img src="https://i.ibb.co/dsT5RhJ9/snapsint.png" width="24"/> | [SynapsInt](https://synapsint.com/) | Plateforme multifonction : recherche d’infos, domaines, emails, IP, réseaux sociaux, leaks, etc. |
+| <img src="https://viewdns.info/favicon.ico" width="24"/> | [ViewDNS](https://viewdns.info/) | Outils d’analyse DNS, WHOIS, IP, domaines et géolocalisation. |
+| <img src="https://www.shodan.io/static/img/favicon-60c1b1cd.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
 
 ---
 
@@ -96,4 +96,3 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |:------:|:------------------|:------------|
 | <img src="https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage, analyse de fichiers et de données (polyvalent). |
 | <img src="https://www.dcode.fr/favicon.ico" width="24"/> | [dCode - Identification de chiffrement](https://www.dcode.fr/identification-chiffrement) | Identification automatique de type de chiffrement, conversion et outils cryptographiques (hash, base, ciphers…). |
-
