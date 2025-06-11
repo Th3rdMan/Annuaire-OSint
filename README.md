@@ -29,6 +29,8 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |:------:|:------------------|:------------|
 | <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
 | <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise par coordonnées uniques de 3 mots. |
+| <img src="https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/tMT3WIParw8.png" width="24"/> | [Mapillary](https://www.mapillary.com/app/) | Photos de rues collaboratives, vues piétonnes mondiales, exploration visuelle de quartiers et de routes. |
+| <img src="https://suncalc.org/favicon.ico" width="24"/> | [SunCalc](https://suncalc.org/) | Outil d’analyse de l’ensoleillement, calcul des ombres et des angles solaires à une date/heure précise. |
 
 ---
 
@@ -70,7 +72,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
-| <img src="https://breachdirectory.org/favicon.ico" width="24"/> | [BreachDirectory](https://breachdirectory.org/) | Vérifie si des données personnelles figurent dans des bases de données compromises. |
+| <img src="https://s3.amazonaws.com/rapidapi-prod-user/372ffabd-45c0-4270-b3cc-49f92bb3b23f" width="24"/> | [BreachDirectory](https://breachdirectory.org/) | Vérifie si des données personnelles figurent dans des bases de données compromises. |
 
 ---
 
