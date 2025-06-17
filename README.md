@@ -31,6 +31,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
 | <img src="https://suncalc.org/favicon.ico" width="24"/> | [SunCalc](https://suncalc.org/) | Outil d’analyse de l’ensoleillement, calcul des ombres et des angles solaires à une date/heure précise. |
 | <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise par coordonnées uniques de 3 mots. |
+| <img src="https://fr.worldcam.eu/images/favicon-32x32.png" width="24"/> | [WorldCam](https://fr.worldcam.eu/) | Accès à des milliers de webcams publiques mondiales : observation de lieux, villes, météo en direct. |
 
 ---
 
@@ -39,18 +40,10 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://www.aperisolve.com/static/img/logo.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
+| <img src="https://fotoforensics.com/favicon.ico" width="24"/> | [FotoForensics](https://fotoforensics.com/) | Analyse de la manipulation d’images (ELA, metadata, histogramme), détection de retouches et d’anomalies. |
 | <img src="https://29a.ch/favicon.ico" width="24"/> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Outils gratuits de forensique sur images : ELA, grossissement, détection de manipulations. |
 | <img src="https://pimeyes.com/favicon.ico" width="24"/> | [PimEyes](https://pimeyes.com/en) | Recherche inversée de visages à partir d’une photo pour retrouver d’autres occurrences en ligne. |
 | <img src="https://tineye.com/assets/touch_icons/touch-icon-192x192.png" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences d’une photo. |
-
----
-
-### 🗃️ Archives & recherche historique
-
-|        | Outil        | Description |
-|:------:|:------------------|:------------|
-| <img src="https://web-static.archive.org/_static/images/archive.ico" width="24"/> | [Web Archive (Wayback Machine)](https://web.archive.org/) | Consultation et sauvegarde de versions anciennes de pages web. |
-| <img src="https://urlscan.io/favicon.ico" width="24"/> | [urlscan.io](https://urlscan.io/) | Analyse automatisée d’URL : capture de page, ressources chargées, scripts, détails techniques et historiques. |
 
 ---
 
@@ -67,27 +60,31 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 ---
 
-### 🔒 Sécurité & comptes compromis
+### 🔒 Sécurité, leaks & pastebins
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://s3.amazonaws.com/rapidapi-prod-user/372ffabd-45c0-4270-b3cc-49f92bb3b23f" width="24"/> | [BreachDirectory](https://breachdirectory.org/) | Vérifie si des données personnelles figurent dans des bases de données compromises. |
 | <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérifie si une adresse e-mail ou un mot de passe apparaît dans des fuites de données ou leaks publics. |
 | <img src="https://intelx.io/favicon.ico" width="24"/> | [IntelX](https://intelx.io/) | Recherche dans des leaks, pastebins, bases compromises, dark web, et indexation avancée d’informations publiques ou exposées. |
+| <img src="https://leakpeek.com/assets/img/lpfavi.png" width="24"/> | [LeakPeek](https://leakpeek.com/) | Moteur de recherche de leaks, pastebins, dumps et credentials exposés publiquement. |
 
 ---
 
-### 🌐 Analyse technique, infrastructure & cybersécurité
+### 🌐 Investigation de domaine & historique
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://builtwith.com/favicon.ico" width="24"/> | [BuiltWith](https://builtwith.com/fr/) | Analyse technique d’un site web : CMS, frameworks, scripts, outils marketing, serveurs. |
+| <img src="https://www.exploit-db.com/favicon.ico" width="24"/> | [Exploit-DB](https://www.exploit-db.com/) | Base de données d’exploits, vulnérabilités, failles publiées et proof-of-concept pour la cybersécurité offensive et défensive. |
 | <img src="https://www.ipqualityscore.com/templates/img/icons/fav/favicon-32x32.png" width="24"/> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | Vérification de réputation et analyse de risque d’une adresse IP : proxy, spam, fraude, géo, etc. |
-| <img src="https://i.ibb.co/FLwbFsmm/osintsh.png" width="24"/> | [osint.sh](https://osint.sh/) | Recherche rapide de métadonnées, IP, DNS, domaine, WHOIS, S3, bucket, leaks, etc. |
+| <img src="https://i.ibb.co/FLwbFsmm/osintsh.png" width="24"/> | [Osint.sh](https://osint.sh/) | Recherche rapide de métadonnées, IP, DNS, domaine, WHOIS, S3, bucket, leaks, etc. |
+| <img src="https://www.shodan.io/static/img/apple-touch-icon-192-4eb04af5.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
 | <img src="https://i.ibb.co/d0XVC2FQ/subdomainfinder-0.png" width="24"/> | [Subdomain Finder (C99)](https://subdomainfinder.c99.nl/) | Recherche et découverte automatisée de sous-domaines publics pour un domaine. |
 | <img src="https://i.ibb.co/dsT5RhJ9/snapsint.png" width="24"/> | [SynapsInt](https://synapsint.com/) | Plateforme multifonction : recherche d’infos, domaines, emails, IP, réseaux sociaux, leaks, etc. |
+| <img src="https://urlscan.io/favicon.ico" width="24"/> | [Urlscan.io](https://urlscan.io/) | Analyse automatisée d’URL : capture de page, ressources chargées, scripts, détails techniques et historiques. |
 | <img src="https://viewdns.info/favicon.ico" width="24"/> | [ViewDNS](https://viewdns.info/) | Outils d’analyse DNS, WHOIS, IP, domaines et géolocalisation. |
-| <img src="https://www.shodan.io/static/img/apple-touch-icon-192-4eb04af5.png" width="24"/> | [Shodan](https://www.shodan.io/) | Moteur de recherche d’appareils, serveurs et services exposés sur Internet (IoT, caméras, sites, vulnérabilités…). |
+| <img src="https://web-static.archive.org/_static/images/archive.ico" width="24"/> | [Wayback Machine](https://web.archive.org/) | Consultation et sauvegarde de versions anciennes de pages web. |
 
 ---
 
@@ -95,6 +92,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
+| <img src="https://cryptii.com/favicon.ico" width="24"/> | [Cryptii](https://cryptii.com/) | Conversion, décodage, chiffrement et manipulation visuelle de données (hex, base64, Morse, ciphers, etc.). |
 | <img src="https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage, analyse de fichiers et de données (polyvalent). |
 | <img src="https://www.dcode.fr/favicon.ico" width="24"/> | [dCode - Identification de chiffrement](https://www.dcode.fr/identification-chiffrement) | Identification automatique de type de chiffrement, conversion et outils cryptographiques (hash, base, ciphers…). |
 | <img src="https://emn178.github.io/online-tools/images/logo.svg" width="24"/> | [Online Tools by emn178](https://emn178.github.io/online-tools/) | Suite d’outils pour le hashage, l’encodage, la conversion et le cryptage. |
