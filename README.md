@@ -76,6 +76,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://builtwith.com/favicon.ico" width="24"/> | [BuiltWith](https://builtwith.com/fr/) | Analyse technique d’un site web : CMS, frameworks, scripts, outils marketing, serveurs. |
+| <img src="https://radar.cloudflare.com/favicon.ico" width="24"/> | [Cloudflare Radar](https://radar.cloudflare.com/) | Analyse en temps réel du trafic, incidents, DNS, menaces et statistiques sur l’état global et local d’Internet. |
 | <img src="https://www.exploit-db.com/favicon.ico" width="24"/> | [Exploit-DB](https://www.exploit-db.com/) | Base de données d’exploits, vulnérabilités, failles publiées et proof-of-concept pour la cybersécurité offensive et défensive. |
 | <img src="https://www.ipqualityscore.com/templates/img/icons/fav/favicon-32x32.png" width="24"/> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | Vérification de réputation et analyse de risque d’une adresse IP : proxy, spam, fraude, géo, etc. |
 | <img src="https://i.ibb.co/FLwbFsmm/osintsh.png" width="24"/> | [Osint.sh](https://osint.sh/) | Recherche rapide de métadonnées, IP, DNS, domaine, WHOIS, S3, bucket, leaks, etc. |
