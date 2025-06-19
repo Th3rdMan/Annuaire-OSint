@@ -13,11 +13,12 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Plateforme        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://i.ibb.co/0jMdQ4r3/favicon-V2.png" width="24"/> | [Isfred](https://isfred.fr/) | Plateforme française de challenges interactifs, quiz et cours OSINT pour progresser, s'entraîner ou s’autoévaluer. |
+| <img src="https://openfacto.fr/wp-content/uploads/2024/07/cropped-White-Smoke-with-Medium-Blue-1-192x192.jpg" width="24"/> | [OpenFacto](https://openfacto.fr/) | Communauté, articles, formations (payantes), guides pratiques et newsletter dédiée à l’OSINT francophone. |
 | <img src="https://oscarzulu.org/favicon.ico" width="24"/> | [Oscar Zulu](https://oscarzulu.org/) | Communauté active organisant régulièrement des CTF OSINT, partage de ressources, articles, événements et ateliers en ligne. |
 | <img src="https://osint4fun.eu/favicon.ico" width="24"/> | [OSINT4Fun](https://www.osint4fun.eu/) | Communauté, ateliers, challenges et événements OSINT francophones (organisation de CTF, calendrier de l’Avent, guides pratiques). |
 | <img src="https://osintfr.com/favicon.ico" width="24"/> | [OSINTFR](https://osintfr.com/) | Blog, veille, actualités et ressources francophones pour l’OSINT, cybersécurité et investigation. |
 | <img src="https://osintracker.com/favicon.ico" width="24"/> | [Osintracker](https://osintracker.com/) | Agrégateur de ressources OSINT : outils, blogs, podcasts, chaînes, événements, actualités. |
-| <img src="https://ozint.eu/assets/images/brand/o.png" width="24"/> | [OZINT](https://ozint.eu/) | Portail communautaire francophone proposant des challenges OSINT, ateliers, guides pratiques et ressources pédagogiques. |
+| <img src="https://ozint.eu/assets/images/brand/o.png" width="24"/> | [Osintopia](https://ozint.eu/) | Portail communautaire francophone proposant des challenges OSINT, ateliers, guides pratiques et ressources pédagogiques. |
 | <img src="https://projetfox.com/favicon.ico" width="24"/> | [Projet Fox](https://projetfox.com/) | Communauté et portail de guides, outils, articles, veille, forum d’entraide et ressources OSINT. |
 
 </details>
