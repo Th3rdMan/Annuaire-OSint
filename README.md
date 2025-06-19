@@ -36,6 +36,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://suncalc.org/favicon.ico" width="24"/> | [SunCalc](https://suncalc.org/) | Outil d’analyse de l’ensoleillement, calcul des ombres et des angles solaires à une date/heure précise. |
 | <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise par coordonnées uniques de 3 mots. |
 | <img src="https://fr.worldcam.eu/images/favicon-32x32.png" width="24"/> | [WorldCam](https://fr.worldcam.eu/) | Accès à des milliers de webcams publiques mondiales : observation de lieux, villes, météo en direct. |
+| <img src="https://livingatlas.arcgis.com/wayback/esri-favicon-light-32.png" width="24"/> | [ArcGIS Wayback Imagery](https://livingatlas.arcgis.com/wayback/) | Accès à l’historique mondial des images satellites pour analyser l’évolution de n’importe quel lieu dans le temps. |
 
 </details>
 
