@@ -31,6 +31,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://graffiti-database.com/themes/custom/graffitidatabase/favicon.ico" width="24"/> | [Graffiti Database](https://graffiti-database.com/index.php/) | Base mondiale d’images et de localisations de graffitis pour recoupement et identification. |
+| <img src="https://icons.veryicon.com/png/o/application/awesome-common-free-open-source-icon/map-marked-alt-1.png" width="24"/> | [MapConnect](https://noobosaurus-r3x.github.io/MapConnect/) | Gestion avancée de points GPS sur carte interactive, édition et export local, sans collecte de données.<br><div align="right"><i><sub>par [Noobosaurus R3x](https://noobosaurusr3x.fr/)</sub></i></div> |
 | <img src="https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/tMT3WIParw8.png" width="24"/> | [Mapillary](https://www.mapillary.com/app/) | Photos de rues collaboratives, vues piétonnes mondiales, exploration visuelle de quartiers et de routes. |
 | <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Requêtes avancées et extraction de données sur OpenStreetMap. |
 | <img src="https://suncalc.org/favicon.ico" width="24"/> | [SunCalc](https://suncalc.org/) | Outil d’analyse de l’ensoleillement, calcul des ombres et des angles solaires à une date/heure précise. |
@@ -68,7 +69,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.namechk.com/favicon.ico" width="24"/> | [Namechk](https://namechk.com/) | Vérification de disponibilité d’un pseudo ou d’un nom sur des centaines de réseaux sociaux et plateformes. |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24"/> | [Social Searcher](https://www.social-searcher.com/) | Recherche en temps réel sur les réseaux sociaux publics (mot, pseudo, hashtag). |
 | <img src="https://usersearch.org/favicon.ico" width="24"/> | [UserSearch](https://usersearch.org/) | Recherche la présence d’un pseudo ou d’un e-mail sur de nombreux services, réseaux et plateformes. |
-| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes francophones et internationales. |
+| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche d’un pseudo sur des dizaines de plateformes.<br><div align="right"><i><sub>par <a href="https://oscarzulu.org">Degun &amp; Tungst</a></sub></i></div> |
 | <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche automatisée de la présence d’un pseudo sur des centaines de sites (profil direct). |
 
 </details>
