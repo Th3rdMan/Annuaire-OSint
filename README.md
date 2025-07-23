@@ -44,6 +44,28 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 ---
 
 <details>
+<summary><h3>🚦 Transport, navigation & suivi de trafic</h3></summary>
+
+<strong>✈️ Suivi et analyse aérien</strong>
+
+|        | Outil        | Description |
+|:------:|:------------------|:------------|
+| <img src="https://globe.adsbexchange.com/images/cropped-Stealth-1-32x32.png" width="24"/> | [ADSBexchange](https://globe.adsbexchange.com/) | Suivi mondial en temps réel de vols, historique et données brutes ADS-B. |
+| <img src="https://www.flightradar24.com/static/favicons/favicon.svg" width="24"/> | [Flightradar24](https://www.flightradar24.com/) | Suivi en direct des vols et avions dans le monde entier, historique, infos détaillées. |
+
+<strong>🚢 Suivi et analyse maritime</strong>
+
+|        | Outil        | Description |
+|:------:|:------------------|:------------|
+| <img src="https://globalfishingwatch.org/wp-content/uploads/cropped-gfwisologo512x512-1-1-32x32.png" width="24"/> | [Global Fishing Watch](https://globalfishingwatch.org/map) | Cartographie mondiale des navires de pêche et surveillance de l’activité maritime. |
+| <img src="https://www.marinetraffic.com/favicon_n.ico" width="24"/> | [MarineTraffic](https://www.marinetraffic.com/) | Suivi en temps réel des navires, trafic maritime mondial, infos portuaires et historiques AIS. |
+| <img src="https://www.vesselfinder.com/favicon.ico" width="24"/> | [VesselFinder](https://www.vesselfinder.com/) | Suivi mondial en temps réel des bateaux, AIS, historique de positions et infos navires. |
+
+</details>
+
+---
+
+<details>
 <summary><h3>🖼️ Analyse d’images, visages & forensics</h3></summary>
 
 |        | Outil        | Description |
