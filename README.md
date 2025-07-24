@@ -59,6 +59,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |:------:|:------------------|:------------|
 | <img src="https://globalfishingwatch.org/wp-content/uploads/cropped-gfwisologo512x512-1-1-32x32.png" width="24"/> | [Global Fishing Watch](https://globalfishingwatch.org/map) | Cartographie mondiale des navires de pêche et surveillance de l’activité maritime. |
 | <img src="https://cdn-1.webcatalog.io/catalog/marinetraffic/marinetraffic-icon-filled-256.webp" width="24"/> | [MarineTraffic](https://www.marinetraffic.com/) | Suivi en temps réel des navires, trafic maritime mondial, infos portuaires et historiques AIS. |
+| <img src="https://www.myshiptracking.com/favicon.ico" width="24"/> | [MyShipTracking](https://www.myshiptracking.com/) | Suivi en temps réel des navires et de la flotte mondiale, visualisation sur carte AIS. |
 | <img src="https://www.vesselfinder.com/favicon.ico" width="24"/> | [VesselFinder](https://www.vesselfinder.com/) | Suivi mondial en temps réel des bateaux, AIS, historique de positions et infos navires. |
 
 </details>
