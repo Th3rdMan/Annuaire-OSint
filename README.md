@@ -75,6 +75,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.aperisolve.com/static/img/logo.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
 | <img src="https://depositphotos.com/favicon.ico" width="24"/> | [Depositphotos](https://fr.depositphotos.com/) | Banque d’images avec recherche inversée. |
 | <img src="https://www.dreamstime.com/favicon.ico" width="24"/> | [Dreamstime](https://www.dreamstime.com/) | Banque d’images avec recherche inversée. |
+| <img src="https://www.osint4fun.eu/favicon.ico" width="24"/> | [EXIF Tool OSINT4Fun](https://www.osint4fun.eu/exif/) | Extraction et analyse des métadonnées EXIF de photos en ligne (format, géolocalisation, appareil…).<br><div align="right"><i><sub>par <a href="https://www.linkedin.com/in/alain-godon/">AlGo</a></sub></i></div> |
 | <img src="https://facecheck.id/favicon.ico" width="24"/> | [FaceCheck.ID](https://facecheck.id/fr) | Recherche inversée de visage sur le web, réseaux sociaux et actualités. |
 | <img src="https://fotoforensics.com/favicon.ico" width="24"/> | [FotoForensics](https://fotoforensics.com/) | Analyse de la manipulation d’images (ELA, métadonnées, histogramme). |
 | <img src="https://www.gettyimages.fr/favicon.ico" width="24"/> | [Getty Images](https://www.gettyimages.fr/) | Banque d’images avec recherche inversée. |
