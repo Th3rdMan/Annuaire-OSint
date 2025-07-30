@@ -69,23 +69,30 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 <details>
 <summary><h3>🖼️ Analyse d’images, visages & forensics</h3></summary>
 
+<strong>🔬 Analyse forensique & métadonnées</strong>
+
+|        | Outil        | Description |
+|:------:|:------------------|:------------|
+| <img src="https://www.aperisolve.com/static/img/logo.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
+| <img src="https://www.osint4fun.eu/favicon.ico" width="24"/> | [EXIF Tool OSINT4Fun](https://www.osint4fun.eu/exif/) | Extraction et analyse EXIF (format, géolocalisation, appareil…).<br><div align="right"><i><sub>par <a href="https://www.linkedin.com/in/alain-godon/">AlGo</a></sub></i></div> |
+| <img src="https://facecheck.id/favicon.ico" width="24"/> | [FaceCheck.ID](https://facecheck.id/fr) | Recherche inversée de visage sur le web, réseaux sociaux et actualités. |
+| <img src="https://fotoforensics.com/favicon.ico" width="24"/> | [FotoForensics](https://fotoforensics.com/) | Analyse de la manipulation d’images (ELA, métadonnées, histogramme). |
+| <img src="https://29a.ch/favicon.ico" width="24"/> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Outils de forensique sur images : ELA, grossissement, manipulations. |
+
+<strong>🖼️ Banques d’images & recherche inversée</strong>
+
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
 | <img src="https://www.adobe.com/favicon.ico" width="24"/> | [Adobe Stock](https://stock.adobe.com/fr/) | Banque d’images professionnelle avec recherche inversée. |
-| <img src="https://www.aperisolve.com/static/img/logo.svg" width="24"/> | [AperiSolve](https://www.aperisolve.com/) | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
 | <img src="https://depositphotos.com/favicon.ico" width="24"/> | [Depositphotos](https://fr.depositphotos.com/) | Banque d’images avec recherche inversée. |
 | <img src="https://www.dreamstime.com/favicon.ico" width="24"/> | [Dreamstime](https://www.dreamstime.com/) | Banque d’images avec recherche inversée. |
-| <img src="https://www.osint4fun.eu/favicon.ico" width="24"/> | [EXIF Tool OSINT4Fun](https://www.osint4fun.eu/exif/) | Extraction et analyse des métadonnées EXIF de photos en ligne (format, géolocalisation, appareil…).<br><div align="right"><i><sub>par <a href="https://www.linkedin.com/in/alain-godon/">AlGo</a></sub></i></div> |
-| <img src="https://facecheck.id/favicon.ico" width="24"/> | [FaceCheck.ID](https://facecheck.id/fr) | Recherche inversée de visage sur le web, réseaux sociaux et actualités. |
-| <img src="https://fotoforensics.com/favicon.ico" width="24"/> | [FotoForensics](https://fotoforensics.com/) | Analyse de la manipulation d’images (ELA, métadonnées, histogramme). |
 | <img src="https://www.gettyimages.fr/favicon.ico" width="24"/> | [Getty Images](https://www.gettyimages.fr/) | Banque d’images avec recherche inversée. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Google_Lens_Icon.svg/192px-Google_Lens_Icon.svg.png?20230514215757" width="24"/> | [Google Images](https://images.google.com/) | Recherche inversée sur l’ensemble du web. |
 | <img src="https://cdn-icons-png.flaticon.com/512/906/906343.png" width="24"/> | [iStockPhoto](https://www.istockphoto.com/) | Banque d’images avec recherche inversée. |
-| <img src="https://29a.ch/favicon.ico" width="24"/> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | Outils de forensique sur images : ELA, grossissement, manipulations. |
 | <img src="https://pimeyes.com/favicon.ico" width="24"/> | [PimEyes](https://pimeyes.com/en) | Recherche inversée de visages à partir d’une photo. |
 | <img src="https://www.shutterstock.com/favicon.ico" width="24"/> | [Shutterstock](https://www.shutterstock.com/) | Banque d’images avec recherche inversée. |
 | <img src="https://tineye.com/assets/touch_icons/touch-icon-192x192.png" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences. |
-| <img src="https://www.yandex.com/favicon.ico" width="24"/> | [Yandex Images](https://yandex.com/images/) | Recherche inversée globale, alternative à Google. |
+| <img src="https://cdn-icons-png.freepik.com/256/13390/13390552.png" width="24"/> | [Yandex Images](https://yandex.com/images/) | Recherche inversée globale, alternative à Google. |
 
 </details>
 
