@@ -107,6 +107,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://epieos.com/favicon.ico" width="24"/> | [Epieos](https://epieos.com/) | Recherche de profils et informations associées à une adresse e-mail. |
 | <img src="https://inflact.com/favicon.ico" width="24"/> | [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | Recherche de profils, hashtags et contenus Instagram sans connexion. |
 | <img src="https://www.namechk.com/favicon.ico" width="24"/> | [Namechk](https://namechk.com/) | Vérification de disponibilité de pseudos ou noms sur de multiples réseaux sociaux. |
+| <img src="https://predictalab.com/favicon.ico" width="24"/> | [Predicta Search](https://www.predictasearch.com/) | Recherche de l’empreinte numérique à partir d’un e‑mail ou numéro de téléphone (profils publics, réseaux, sites associés). |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24"/> | [Social Searcher](https://www.social-searcher.com/) | Recherche de mots, hashtags et profils sur les réseaux sociaux publics. |
 | <img src="https://usersearch.org/favicon.ico" width="24"/> | [UserSearch](https://usersearch.org/) | Recherche de pseudos ou e-mails sur de nombreux services et plateformes. |
 | <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [UserCheck (Oscar Zulu)](https://usercheck.oscarzulu.org/) | Recherche de pseudo sur des dizaines de plateformes.<br><div align="right"><i><sub>par <a href="https://oscarzulu.org">Degun &amp; Tungst</a></sub></i></div> |
@@ -125,6 +126,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24"/> | [HaveIBeenPwned](https://haveibeenpwned.com/) | Vérification d’e-mails ou mots de passe dans des fuites de données. |
 | <img src="https://intelx.io/favicon.ico" width="24"/> | [IntelX](https://intelx.io/) | Recherche de leaks, pastebins, bases compromises et dark web. |
 | <img src="https://leakpeek.com/assets/img/lpfavi.png" width="24"/> | [LeakPeek](https://leakpeek.com/) | Recherche de leaks, pastebins, dumps et credentials exposés publiquement. |
+| <img src="https://www.proxynova.com/favicon.ico" width="24"/> | [ProxyNova COMB Search](https://www.proxynova.com/tools/comb/) | Recherche dans la base COMB (milliards de paires email:mdp) issue de fuites historiques. |
 
 </details>
 
