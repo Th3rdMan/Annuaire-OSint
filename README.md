@@ -30,15 +30,16 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 |        | Outil        | Description |
 |:------:|:------------------|:------------|
+| <img src="https://livingatlas.arcgis.com/wayback/esri-favicon-light-32.png" width="24"/> | [ArcGIS Wayback Imagery](https://livingatlas.arcgis.com/wayback/) | Accès à l’historique des images satellites pour l’analyse de l’évolution des lieux dans le temps. |
 | <img src="https://graffiti-database.com/themes/custom/graffitidatabase/favicon.ico" width="24"/> | [Graffiti Database](https://graffiti-database.com/index.php/) | Recherche et recoupement d’images et de localisations de graffitis dans le monde. |
 | <img src="https://icons.veryicon.com/png/o/application/awesome-common-free-open-source-icon/map-marked-alt-1.png" width="24"/> | [MapConnect](https://noobosaurus-r3x.github.io/MapConnect/) | Gestion avancée de points GPS sur carte interactive, édition et export local, sans collecte de données.<br><div align="right"><i><sub>par [Noobosaurus R3x](https://noobosaurusr3x.fr/)</sub></i></div> |
 | <img src="https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/tMT3WIParw8.png" width="24"/> | [Mapillary](https://www.mapillary.com/app/) | Exploration de vues piétonnes mondiales, photos collaboratives de rues et quartiers. |
 | <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24"/> | [Overpass Turbo](https://overpass-turbo.eu/) | Extraction et analyse avancée de données OpenStreetMap. |
 | <img src="https://nicolas-dufour.github.io/assets/logo.svg" width="24"/> | [Plonk](https://nicolas-dufour.github.io/plonk) | IA de géolocalisation d’images : prédit la localisation probable d’une photo, affiche une carte de densité globale.<br><div align="right"><i><sub>par <a href="https://github.com/nicolas-dufour">Nicolas Dufour</a></sub></i></div> |
+| <img src="https://www.smappen.com/app/vue-assets/cropped-favicon-192x192.png" width="24"/> | [Smappen](https://www.smappen.com/app/) | Générateur de cartes isochrones et zones d’accessibilité en temps ou distance (piétons, voiture, transports), avec visualisation de densités. |
 | <img src="https://suncalc.org/favicon.ico" width="24"/> | [SunCalc](https://suncalc.org/) | Calcul des ombres et de l’ensoleillement à une date et heure précise. |
 | <img src="https://what3words.com/favicon.ico" width="24"/> | [What3Words](https://what3words.com/) | Localisation ultra-précise de tout lieu via trois mots uniques. |
 | <img src="https://fr.worldcam.eu/images/favicon-32x32.png" width="24"/> | [WorldCam](https://fr.worldcam.eu/) | Accès à des webcams publiques mondiales : observation de lieux, villes, météo en direct. |
-| <img src="https://livingatlas.arcgis.com/wayback/esri-favicon-light-32.png" width="24"/> | [ArcGIS Wayback Imagery](https://livingatlas.arcgis.com/wayback/) | Accès à l’historique des images satellites pour l’analyse de l’évolution des lieux dans le temps. |
 
 </details>
 
