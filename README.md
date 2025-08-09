@@ -20,6 +20,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://osintracker.com/favicon.ico" width="24"/> | [Osintracker](https://osintracker.com/) | Agrégateur de ressources OSINT : outils, blogs, podcasts, chaînes, événements, actualités. |
 | <img src="https://ozint.eu/assets/images/brand/o.png" width="24"/> | [Osintopia](https://ozint.eu/) | Portail communautaire proposant des challenges, ateliers, guides pratiques et ressources pédagogiques. |
 | <img src="https://projetfox.com/favicon.ico" width="24"/> | [Projet Fox](https://projetfox.com/) | Communauté et portail de guides, outils, articles, veille, forum d’entraide et ressources OSINT. |
+| <img src="https://www.zataz.com/favicon.ico" width="24"/> | [Zataz](https://www.zataz.com/) | Média francophone traitant de cybersécurité, cybercriminalité et fuites de données, avec alertes et veille.<br><div align="right"><i><sub>par <a href="https://damienbancal.fr/">Damien Bancal</a></sub></i></div> |
 
 </details>
 
