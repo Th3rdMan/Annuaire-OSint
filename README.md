@@ -110,10 +110,10 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://epieos.com/favicon.ico" width="24"/> | [Epieos](https://epieos.com/) | Recherche de profils et informations associées à une adresse e-mail. |
 | <img src="https://inflact.com/favicon.ico" width="24"/> | [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | Recherche de profils, hashtags et contenus Instagram sans connexion. |
 | <img src="https://www.namechk.com/favicon.ico" width="24"/> | [Namechk](https://namechk.com/) | Vérification de disponibilité de pseudos ou noms sur de multiples réseaux sociaux. |
+| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [Osint is not a crime](https://osintisnotacrime.com/desktop) | Recherche de pseudo sur des dizaines de plateformes.<br><div align="right"><i><sub>par <a href="https://oscarzulu.org">Degun &amp; Tungst</a></sub></i></div> |
 | <img src="https://predictalab.com/favicon.ico" width="24"/> | [Predicta Search](https://www.predictasearch.com/) | Recherche de l’empreinte numérique à partir d’un e‑mail ou numéro de téléphone (profils publics, réseaux, sites associés). |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24"/> | [Social Searcher](https://www.social-searcher.com/) | Recherche de mots, hashtags et profils sur les réseaux sociaux publics. |
 | <img src="https://usersearch.org/favicon.ico" width="24"/> | [UserSearch](https://usersearch.org/) | Recherche de pseudos ou e-mails sur de nombreux services et plateformes. |
-| <img src="https://osint.oscarzulu.org/files/99ea2ac139e20dc2443f9caac509ff8a/logo-rond-noir.png" width="24"/> | [Osint is not a crime (Oscar Zulu)](https://osintisnotacrime.com/desktop) | Recherche de pseudo sur des dizaines de plateformes.<br><div align="right"><i><sub>par <a href="https://oscarzulu.org">Degun &amp; Tungst</a></sub></i></div> |
 | <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24"/> | [WhatsMyName](https://whatsmyname.app/) | Recherche de la présence d’un pseudo sur des centaines de sites. |
 
 </details>
