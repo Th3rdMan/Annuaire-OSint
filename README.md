@@ -17,10 +17,16 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://oscarzulu.org/favicon.ico" width="24"/> | [Oscar Zulu](https://oscarzulu.org/) | Communauté active organisant des CTF OSINT, partages de ressources, articles et ateliers en ligne. |
 | <img src="https://osint4fun.eu/favicon.ico" width="24"/> | [OSINT4Fun](https://www.osint4fun.eu/) | Communauté, ateliers, challenges et événements OSINT francophones (CTF, guides pratiques). |
 | <img src="https://osintfr.com/favicon.ico" width="24"/> | [OSINTFR](https://osintfr.com/) | Blog, veille, actualités et ressources francophones pour l’OSINT, cybersécurité et investigation. |
-| <img src="https://osintracker.com/favicon.ico" width="24"/> | [Osintracker](https://osintracker.com/) | Agrégateur de ressources OSINT : outils, blogs, podcasts, chaînes, événements, actualités. |
-| <img src="https://ozint.eu/assets/images/brand/o.png" width="24"/> | [Osintopia](https://ozint.eu/) | Portail communautaire proposant des challenges, ateliers, guides pratiques et ressources pédagogiques. |
+| <img src="https://osintopia.fr/favicon.png" width="24"/> | [Osintopia](https://ozint.eu/) | Portail communautaire proposant des challenges, ateliers, guides pratiques et ressources pédagogiques. |
 | <img src="https://projetfox.com/favicon.ico" width="24"/> | [Projet Fox](https://projetfox.com/) | Communauté et portail de guides, outils, articles, veille, forum d’entraide et ressources OSINT. |
 | <img src="https://www.zataz.com/favicon.ico" width="24"/> | [Zataz](https://www.zataz.com/) | Média francophone traitant de cybersécurité, cybercriminalité et fuites de données, avec alertes et veille.<br><div align="right"><i><sub>par <a href="https://damienbancal.fr/">Damien Bancal</a></sub></i></div> |
+
+<strong>🖇️​ Outils de suivi & structuration d’enquête</strong>
+
+|        | Plateforme        | Description |
+|:------:|:------------------|:------------|
+| <img src="https://osintracker.com/favicon.ico" width="24"/> | [Osintracker](https://osintracker.com/) | Plateforme de suivi d’investigation OSINT : gestion des données collectées et visualisation relationnelle sous forme de graphe pour structurer et suivre une enquête. |
+| <img src="https://zeroneurone.com/favicon.svg" width="24"/> | [ZeroNeurone](https://zeroneurone.com/) | Outil Open Source d’amplification cognitive : tableau blanc “local-first” + analyse de graphe. Cartographiez vos idées, géolocalisez vos éléments, visualisez les événements (timeline), connectez les indices et révélez les patterns. |
 
 </details>
 
@@ -91,11 +97,11 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://depositphotos.com/favicon.ico" width="24"/> | [Depositphotos](https://fr.depositphotos.com/) | Banque d’images avec recherche inversée. |
 | <img src="https://www.dreamstime.com/favicon.ico" width="24"/> | [Dreamstime](https://www.dreamstime.com/) | Banque d’images avec recherche inversée. |
 | <img src="https://www.gettyimages.fr/favicon.ico" width="24"/> | [Getty Images](https://www.gettyimages.fr/) | Banque d’images avec recherche inversée. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Google_Lens_Icon.svg/192px-Google_Lens_Icon.svg.png?20230514215757" width="24"/> | [Google Images](https://images.google.com/) | Recherche inversée sur l’ensemble du web. |
+| <img src="https://lh3.googleusercontent.com/EYKW_lhEHrqivBPIze6hEu_3nlm6WdGq2_ef3GMqw4FrE6qIpUGcUBU_YD8xkzi0a-81Yn9DUBs6UYVmGo-KRCAjKIoVnlIkRsne8nmG4x3WEYUzqYh-" width="24"/> | [Google Images](https://images.google.com/) | Recherche inversée sur l’ensemble du web. |
 | <img src="https://cdn-icons-png.flaticon.com/512/906/906343.png" width="24"/> | [iStockPhoto](https://www.istockphoto.com/) | Banque d’images avec recherche inversée. |
 | <img src="https://pimeyes.com/favicon.ico" width="24"/> | [PimEyes](https://pimeyes.com/en) | Recherche inversée de visages à partir d’une photo. |
 | <img src="https://www.shutterstock.com/favicon.ico" width="24"/> | [Shutterstock](https://www.shutterstock.com/) | Banque d’images avec recherche inversée. |
-| <img src="https://tineye.com/assets/touch_icons/touch-icon-192x192.png" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences. |
+| <img src="https://tineye.com/assets/touch_icons/apple-touch-icon-57x57-precomposed.webp" width="24"/> | [TinEye](https://tineye.com/) | Recherche inversée d’images pour retrouver l’origine et les occurrences. |
 | <img src="https://cdn-icons-png.freepik.com/256/13390/13390552.png" width="24"/> | [Yandex Images](https://yandex.com/images/) | Recherche inversée globale, alternative à Google. |
 
 </details>
@@ -166,6 +172,6 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24"/> | [CyberChef](https://gchq.github.io/CyberChef/) | Manipulation, conversion, encodage, décodage et analyse de fichiers et données. |
 | <img src="https://www.dcode.fr/favicon.ico" width="24"/> | [dCode - Identification de chiffrement](https://www.dcode.fr/identification-chiffrement) | Identification et conversion de types de chiffrement, hash, base, ciphers, etc. |
 | <img src="https://emn178.github.io/online-tools/images/logo.svg" width="24"/> | [Online Tools by emn178](https://emn178.github.io/online-tools/) | Suite d’outils pour hashage, encodage, conversion et cryptage de données. |
-| <img src="https://piellardj.github.io/stereogram-solver/favicon-32x32.png" width="24"/> | [Stereogram Solver](https://piellardj.github.io/stereogram-solver/) | Décodage automatique de stéréogrammes et révélation d’images cachées. |
+| <img src="https://piellardj.github.io/stereogram-solver/favicons/favicon-96x96.png" width="24"/> | [Stereogram Solver](https://piellardj.github.io/stereogram-solver/) | Décodage automatique de stéréogrammes et révélation d’images cachées. |
 
 </details>
