@@ -91,6 +91,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 |        | Outil        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
 | <img src="https://www.aperisolve.com/static/img/logo.svg" width="24" height="24" style="display:block" /> | [AperiSolve](https://www.aperisolve.com/) | 🟢 | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
+| <img src="https://www.exifdata.com/favicon-32x32.png" width="24" height="24" style="display:block" /> | [EXIFdata](https://www.exifdata.com/) | 🟢 | Extraction et analyse EXIF détaillée.<br><div align="right"></div> |
 | <img src="https://www.osint4fun.eu/favicon.ico" width="24" height="24" style="display:block" /> | [EXIF Tool OSINT4Fun](https://www.osint4fun.eu/exif/) | 🟢 | Extraction et analyse EXIF (format, géolocalisation, appareil…).<br><div align="right"><i><sub>par <a href="https://www.linkedin.com/in/alain-godon/">AlGo</a></sub></i></div> |
 | <img src="https://facecheck.id/favicon.ico" width="24" height="24" style="display:block" /> | [FaceCheck.ID](https://facecheck.id/fr) | 🟡 | Recherche inversée de visage sur le web, réseaux sociaux et actualités. |
 | <img src="https://fotoforensics.com/favicon.ico" width="24" height="24" style="display:block" /> | [FotoForensics](https://fotoforensics.com/) | 🟡 | Analyse de la manipulation d’images (ELA, métadonnées, histogramme). |
