@@ -6,6 +6,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 </div>
 
 ---
+
 <strong>Légende</strong>
 
 - 🟢 Actif
@@ -16,6 +17,8 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 <details>
 <summary><h3>👥 Plateformes & Communautés OSINT francophones</h3></summary>
+
+<strong>👥 Communautés, médias & portails francophones</strong>
 
 |        | Plateforme        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
@@ -42,20 +45,37 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 <details>
 <summary><h3>🌍 Cartographie & géolocalisation</h3></summary>
 
+<strong>🛰️ Imagerie satellite & historique</strong>
+
 |        | Outil        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
 | <img src="https://livingatlas.arcgis.com/wayback/esri-favicon-light-32.png" width="24" height="24" style="display:block" /> | [ArcGIS Wayback Imagery](https://livingatlas.arcgis.com/wayback/) | 🟢 | Accès à l’historique des images satellites pour l’analyse de l’évolution des lieux dans le temps. |
+
+<strong>🗺️ Cartographie, données géographiques & zones d’accessibilité</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
+| <img src="https://icons.veryicon.com/png/o/application/awesome-common-free-open-source-icon/map-marked-alt-1.png" width="24" height="24" style="display:block" /> | [MapConnect](https://noobosaurus-r3x.github.io/MapConnect/) | 🟢 | Gestion avancée de points GPS sur carte interactive, édition et export local, sans collecte de données.<br><div align="right"><i><sub>par [Noobosaurus R3x](https://noobosaurusr3x.fr/)</sub></i></div> |
+| <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24" height="24" style="display:block" /> | [Overpass Turbo](https://overpass-turbo.eu/) | 🟢 | Extraction et analyse avancée de données OpenStreetMap. |
+| <img src="https://www.smappen.com/app/vue-assets/cropped-favicon-192x192.png" width="24" height="24" style="display:block" /> | [Smappen](https://www.smappen.com/app/) | 🟢 | Générateur de cartes isochrones et zones d’accessibilité en temps ou distance. |
+| <img src="https://what3words.com/favicon.ico" width="24" height="24" style="display:block" /> | [What3Words](https://what3words.com/) | 🟢 | Localisation ultra-précise de tout lieu via trois mots uniques. |
+
+<strong>🚶 Vues terrain, photos géolocalisées & webcams</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
+| <img src="https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/tMT3WIParw8.png" width="24" height="24" style="display:block" /> | [Mapillary](https://www.mapillary.com/app/) | 🟢 | Exploration de vues piétonnes mondiales, photos collaboratives de rues et quartiers. |
+| <img src="https://panoramax.fr/assets/favicon.ed901574.ico" width="24" height="24" style="display:block" /> | [Panoramax](https://panoramax.fr/) | 🟢 | Plateforme open source de photos géolocalisées type Street View : consultation, contribution et exploitation d’images terrain ouvertes. |
+| <img src="https://fr.worldcam.eu/images/favicon-32x32.png" width="24" height="24" style="display:block" /> | [WorldCam](https://fr.worldcam.eu/) | 🟡 | Accès à des webcams publiques mondiales. |
+
+<strong>☀️ Contexte environnemental, météo & indices visuels</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
 | <img src="https://graffiti-database.com/themes/custom/graffitidatabase/favicon.ico" width="24" height="24" style="display:block" /> | [Graffiti Database](https://graffiti-database.com/index.php/) | 🟢 | Recherche et recoupement d’images et de localisations de graffitis dans le monde. |
 | <img src="https://www.historique-meteo.net/images/favicon/historiquemeteo/favicon-32.png" width="24" height="24" style="display:block" /> | [Historique-Météo](https://www.historique-meteo.net/) | 🟢 | Archives météo gratuites depuis 2009 (température, vent, humidité, ciel) dans le monde entier. |
-| <img src="https://icons.veryicon.com/png/o/application/awesome-common-free-open-source-icon/map-marked-alt-1.png" width="24" height="24" style="display:block" /> | [MapConnect](https://noobosaurus-r3x.github.io/MapConnect/) | 🟢 | Gestion avancée de points GPS sur carte interactive, édition et export local, sans collecte de données.<br><div align="right"><i><sub>par [Noobosaurus R3x](https://noobosaurusr3x.fr/)</sub></i></div> |
-| <img src="https://static.xx.fbcdn.net/rsrc.php/v4/yh/r/tMT3WIParw8.png" width="24" height="24" style="display:block" /> | [Mapillary](https://www.mapillary.com/app/) | 🟢 | Exploration de vues piétonnes mondiales, photos collaboratives de rues et quartiers. |
-| <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24" height="24" style="display:block" /> | [Overpass Turbo](https://overpass-turbo.eu/) | 🟢 | Extraction et analyse avancée de données OpenStreetMap. |
-| <img src="https://panoramax.fr/assets/favicon.ed901574.ico" width="24" height="24" style="display:block" /> | [Panoramax](https://panoramax.fr/) | 🟢 | Plateforme open source de photos géolocalisées type Street View : consultation, contribution et exploitation d’images terrain ouvertes. |
 | <img src="https://nicolas-dufour.github.io/assets/logo.svg" width="24" height="24" style="display:block" /> | [Plonk](https://nicolas-dufour.github.io/plonk) | 🟡 | IA de géolocalisation d’images : prédit la localisation probable d’une photo, affiche une carte de densité globale.<br><div align="right"><i><sub>par <a href="https://github.com/nicolas-dufour">Nicolas Dufour</a></sub></i></div> |
-| <img src="https://www.smappen.com/app/vue-assets/cropped-favicon-192x192.png" width="24" height="24" style="display:block" /> | [Smappen](https://www.smappen.com/app/) | 🟢 | Générateur de cartes isochrones et zones d’accessibilité en temps ou distance. |
 | <img src="https://suncalc.org/favicon.ico" width="24" height="24" style="display:block" /> | [SunCalc](https://suncalc.org/) | 🟢 | Calcul des ombres et de l’ensoleillement à une date et heure précise. |
-| <img src="https://what3words.com/favicon.ico" width="24" height="24" style="display:block" /> | [What3Words](https://what3words.com/) | 🟢 | Localisation ultra-précise de tout lieu via trois mots uniques. |
-| <img src="https://fr.worldcam.eu/images/favicon-32x32.png" width="24" height="24" style="display:block" /> | [WorldCam](https://fr.worldcam.eu/) | 🟡 | Accès à des webcams publiques mondiales. |
 
 </details>
 
@@ -94,9 +114,15 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.aperisolve.com/static/img/logo.svg" width="24" height="24" style="display:block" /> | [AperiSolve](https://www.aperisolve.com/) | 🟢 | Analyse d’images : couches, stéganographie, métadonnées, miniatures, OCR. |
 | <img src="https://www.exifdata.com/favicon-32x32.png" width="24" height="24" style="display:block" /> | [EXIFdata](https://www.exifdata.com/) | 🟢 | Extraction et analyse EXIF détaillée.<br><div align="right"></div> |
 | <img src="https://www.osint4fun.eu/favicon.ico" width="24" height="24" style="display:block" /> | [EXIF Tool OSINT4Fun](https://www.osint4fun.eu/exif/) | 🟢 | Extraction et analyse EXIF (format, géolocalisation, appareil…).<br><div align="right"><i><sub>par <a href="https://www.linkedin.com/in/alain-godon/">AlGo</a></sub></i></div> |
-| <img src="https://facecheck.id/favicon.ico" width="24" height="24" style="display:block" /> | [FaceCheck.ID](https://facecheck.id/fr) | 🟡 | Recherche inversée de visage sur le web, réseaux sociaux et actualités. |
 | <img src="https://fotoforensics.com/favicon.ico" width="24" height="24" style="display:block" /> | [FotoForensics](https://fotoforensics.com/) | 🟡 | Analyse de la manipulation d’images (ELA, métadonnées, histogramme). |
 | <img src="https://29a.ch/favicon.ico" width="24" height="24" style="display:block" /> | [Photo Forensics (29a.ch)](https://29a.ch/photo-forensics/#forensic-magnifier) | 🟢 | Outils de forensique sur images : ELA, grossissement, manipulations. |
+
+<strong>👤 Recherche inversée de visages</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
+| <img src="https://facecheck.id/favicon.ico" width="24" height="24" style="display:block" /> | [FaceCheck.ID](https://facecheck.id/fr) | 🟡 | Recherche inversée de visage sur le web, réseaux sociaux et actualités. |
+| <img src="https://pimeyes.com/favicon.ico" width="24" height="24" style="display:block" /> | [PimEyes](https://pimeyes.com/en) | 🟡 | Recherche inversée de visages à partir d’une photo. |
 
 <strong>🖼️ Banques d’images & recherche inversée</strong>
 
@@ -108,7 +134,6 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.gettyimages.fr/favicon.ico" width="24" height="24" style="display:block" /> | [Getty Images](https://www.gettyimages.fr/) | 🟢 | Banque d’images avec recherche inversée. |
 | <img src="https://lh3.googleusercontent.com/EYKW_lhEHrqivBPIze6hEu_3nlm6WdGq2_ef3GMqw4FrE6qIpUGcUBU_YD8xkzi0a-81Yn9DUBs6UYVmGo-KRCAjKIoVnlIkRsne8nmG4x3WEYUzqYh-" width="24" height="24" style="display:block" /> | [Google Images](https://images.google.com/) | 🟢 | Recherche inversée sur l’ensemble du web. |
 | <img src="https://cdn-icons-png.flaticon.com/512/906/906343.png" width="24" height="24" style="display:block" /> | [iStockPhoto](https://www.istockphoto.com/) | 🟢 | Banque d’images avec recherche inversée. |
-| <img src="https://pimeyes.com/favicon.ico" width="24" height="24" style="display:block" /> | [PimEyes](https://pimeyes.com/en) | 🟡 | Recherche inversée de visages à partir d’une photo. |
 | <img src="https://www.shutterstock.com/favicon.ico" width="24" height="24" style="display:block" /> | [Shutterstock](https://www.shutterstock.com/) | 🟡 | Banque d’images avec recherche inversée. |
 | <img src="https://tineye.com/assets/touch_icons/apple-touch-icon-57x57-precomposed.webp" width="24" height="24" style="display:block" /> | [TinEye](https://tineye.com/) | 🟢 | Recherche inversée d’images pour retrouver l’origine et les occurrences. |
 | <img src="https://cdn-icons-png.freepik.com/256/13390/13390552.png" width="24" height="24" style="display:block" /> | [Yandex Images](https://yandex.com/images/) | 🟢 | Recherche inversée globale, alternative à Google. |
@@ -120,19 +145,31 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 <details>
 <summary><h3>🕵️‍♂️ Recherche de profils, réseaux & identité</h3></summary>
 
+<strong>👤 Recherche d’identité, pseudos & empreinte numérique</strong>
+
 |        | Outil        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
 | <img src="https://epieos.com/favicon.ico" width="24" height="24" style="display:block" /> | [Epieos](https://epieos.com/) | 🟢 | Recherche de profils et informations associées à une adresse e-mail. |
-| <img src="https://inflact.com/favicon.ico" width="24" height="24" style="display:block" /> | [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | 🟡 | Recherche de profils, hashtags et contenus Instagram sans connexion. |
 | <img src="https://www.namechk.com/favicon.ico" width="24" height="24" style="display:block" /> | [Namechk](https://namechk.com/) | 🟢 | Vérification de disponibilité de pseudos ou noms sur de multiples réseaux sociaux. |
-| <img src="https://keys.openpgp.org/assets/img/koo.ico" width="24" height="24" style="display:block" /> | [OpenPGP Keyserver](https://keys.openpgp.org/) | 🟢 | Recherche de clés OpenPGP publiques associées à des adresses e-mail et identités. |
 | <img src="https://predictalab.com/favicon.ico" width="24" height="24" style="display:block" /> | [Predicta Search](https://www.predictasearch.com/) | 🟡 | Recherche de l’empreinte numérique à partir d’un e-mail ou numéro de téléphone. |
-| <img src="https://www.social-searcher.com/favicon.ico" width="24" height="24" style="display:block" /> | [Social Searcher](https://www.social-searcher.com/) | 🟡 | Recherche de mots, hashtags et profils sur les réseaux sociaux publics. |
-| <img src="https://lh3.googleusercontent.com/LFST9Zmh5fEpPi2A5zD6IX6SESpD4mEspVnjMgZMDT-nEijuSjjp04YxfzYkMlikcIklJjlmOkj5zRNTjszcwshLyw=s60" width="24" height="24" style="display:block" /> | [Tweet Archive](https://www.tweetarchive.org/) | 🟡 | Recherche et consultation d’archives de publications Twitter/X et contenus historiques associés. |
-| <img src="https://keyserver.ubuntu.com/favicon.ico" width="24" height="24" style="display:block" /> | [Ubuntu Keyserver](https://keyserver.ubuntu.com/) | 🟢 | Serveur public de clés PGP : recherche par e-mail, identifiant, fingerprint ou clé publique. |
 | <img src="https://usersearch.com/favicon.ico" width="24" height="24" style="display:block" /> | [UserSearch](https://usersearch.com/) | 🟢 | Recherche de pseudos ou e-mails sur de nombreux services. |
 | <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24" height="24" style="display:block" /> | [WhatsMyName](https://whatsmyname.app/) | 🟡 | Recherche de la présence d’un pseudo sur des centaines de sites. |
+
+<strong>📱 Réseaux sociaux & SOCMINT</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
+| <img src="https://inflact.com/favicon.ico" width="24" height="24" style="display:block" /> | [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | 🟡 | Recherche de profils, hashtags et contenus Instagram sans connexion. |
+| <img src="https://www.social-searcher.com/favicon.ico" width="24" height="24" style="display:block" /> | [Social Searcher](https://www.social-searcher.com/) | 🟡 | Recherche de mots, hashtags et profils sur les réseaux sociaux publics. |
+| <img src="https://lh3.googleusercontent.com/LFST9Zmh5fEpPi2A5zD6IX6SESpD4mEspVnjMgZMDT-nEijuSjjp04YxfzYkMlikcIklJjlmOkj5zRNTjszcwshLyw=s60" width="24" height="24" style="display:block" /> | [Tweet Archive](https://www.tweetarchive.org/) | 🟡 | Recherche et consultation d’archives de publications Twitter/X et contenus historiques associés. |
 | <img src="https://whopostedwhat.com/favicon.png" width="24" height="24" style="display:block" /> | [Who Posted What?](https://whopostedwhat.com/) | 🟡 | Recherche avancée de publications Facebook par mots-clés, dates, profils, pages ou lieux. |
+
+<strong>🔑 Clés PGP & identité technique</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
+| <img src="https://keys.openpgp.org/assets/img/koo.ico" width="24" height="24" style="display:block" /> | [OpenPGP Keyserver](https://keys.openpgp.org/) | 🟢 | Recherche de clés OpenPGP publiques associées à des adresses e-mail et identités. |
+| <img src="https://keyserver.ubuntu.com/favicon.ico" width="24" height="24" style="display:block" /> | [Ubuntu Keyserver](https://keyserver.ubuntu.com/) | 🟢 | Serveur public de clés PGP : recherche par e-mail, identifiant, fingerprint ou clé publique. |
 
 </details>
 
@@ -140,6 +177,8 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 
 <details>
 <summary><h3>🔒 Sécurité, leaks & pastebins</h3></summary>
+
+<strong>🧬 Fuites de données, credentials & bases compromises</strong>
 
 |        | Outil        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
@@ -156,21 +195,28 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 <details>
 <summary><h3>💻 Investigation de domaine & historique</h3></summary>
 
+<strong>🌐 Analyse technique, infrastructure & exposition</strong>
+
 |        | Outil        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
 | <img src="https://builtwith.com/favicon.ico" width="24" height="24" style="display:block" /> | [BuiltWith](https://builtwith.com/fr/) | 🟢 | Analyse technique d’un site web. |
 | <img src="https://images.icon-icons.com/2699/PNG/512/cloudflare_logo_icon_170372.png" width="24" height="24" style="display:block" /> | [Cloudflare Radar](https://radar.cloudflare.com/) | 🟢 | Analyse du trafic et incidents Internet. |
 | <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/09/exploitdb.png" width="24" height="24" style="display:block" /> | [Exploit-DB](https://www.exploit-db.com/) | 🟢 | Recherche d’exploits et vulnérabilités. |
-| <img src="https://ghostarchive.org/favicon.ico" width="24" height="24" style="display:block" /> | [Ghost Archive](https://ghostarchive.org/) | 🟢 | Archivage et consultation de contenus web et réseaux sociaux supprimés ou modifiés. |
 | <img src="https://www.ipqualityscore.com/templates/img/icons/fav/favicon-32x32.png" width="24" height="24" style="display:block" /> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | 🟢 | Vérification de réputation IP. |
 | <img src="https://i.ibb.co/FLwbFsmm/osintsh.png" width="24" height="24" style="display:block" /> | [Osint.sh](https://osint.sh/) | 🟡 | Recherche OSINT multi-sources. |
 | <img src="https://www.shodan.io/static/img/apple-touch-icon-192-4eb04af5.png" width="24" height="24" style="display:block" /> | [Shodan](https://www.shodan.io/) | 🟢 | Recherche d’équipements exposés. |
 | <img src="https://i.ibb.co/d0XVC2FQ/subdomainfinder-0.png" width="24" height="24" style="display:block" /> | [Subdomain Finder (C99)](https://subdomainfinder.c99.nl/) | 🟡 | Recherche de sous-domaines publics. |
 | <img src="https://i.ibb.co/dsT5RhJ9/snapsint.png" width="24" height="24" style="display:block" /> | [SynapsInt](https://synapsint.com/) | 🟡 | Recherche multi-sources OSINT. |
-| <img src="https://www.textise.net/favicon.ico" width="24" height="24" style="display:block" /> | [Textise](https://www.textise.net/) | 🟢 | Affichage en version texte d’une page web. |
 | <img src="https://urlscan.io/favicon.ico" width="24" height="24" style="display:block" /> | [Urlscan.io](https://urlscan.io/) | 🟢 | Analyse automatisée d’URL. |
 | <img src="https://viewdns.info/favicon.ico" width="24" height="24" style="display:block" /> | [ViewDNS](https://viewdns.info/) | 🟢 | Analyse DNS et WHOIS. |
 | <img src="https://www.virustotal.com/gui/images/manifest/icon-72x72.png" width="24" height="24" style="display:block" /> | [VirusTotal](https://www.virustotal.com/) | 🟢 | Analyse de fichiers, URL et domaines. |
+
+<strong>🗄️ Archivage, historique web & consultation simplifiée</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
+| <img src="https://ghostarchive.org/favicon.ico" width="24" height="24" style="display:block" /> | [Ghost Archive](https://ghostarchive.org/) | 🟢 | Archivage et consultation de contenus web et réseaux sociaux supprimés ou modifiés. |
+| <img src="https://www.textise.net/favicon.ico" width="24" height="24" style="display:block" /> | [Textise](https://www.textise.net/) | 🟢 | Affichage en version texte d’une page web. |
 | <img src="https://web-static.archive.org/_static/images/archive.ico" width="24" height="24" style="display:block" /> | [Wayback Machine](https://web.archive.org/) | 🟢 | Consultation d’archives web. |
 
 </details>
@@ -180,12 +226,19 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 <details>
 <summary><h3>🧩 Manipulation, conversion & décodage de données</h3></summary>
 
+<strong>🔣 Encodage, décodage & conversion</strong>
+
 |        | Outil        | Statut | Description |
 |:------:|:------------------|:------:|:------------|
 | <img src="https://cryptii.com/favicon.ico" width="24" height="24" style="display:block" /> | [Cryptii](https://cryptii.com/) | 🟢 | Conversion et décodage de données. |
 | <img src="https://cyberchef.net/assets/aecc661b69309290f600.ico" width="24" height="24" style="display:block" /> | [CyberChef](https://gchq.github.io/CyberChef/) | 🟢 | Manipulation et analyse de données. |
 | <img src="https://www.dcode.fr/favicon.ico" width="24" height="24" style="display:block" /> | [dCode](https://www.dcode.fr/identification-chiffrement) | 🟢 | Identification et décodage de formats. |
 | <img src="https://emn178.github.io/online-tools/images/logo.svg" width="24" height="24" style="display:block" /> | [Online Tools by emn178](https://emn178.github.io/online-tools/) | 🟢 | Outils de hashage et conversion. |
+
+<strong>🧠 Stéganographie & images cachées</strong>
+
+|        | Outil        | Statut | Description |
+|:------:|:------------------|:------:|:------------|
 | <img src="https://piellardj.github.io/stereogram-solver/favicons/favicon-96x96.png" width="24" height="24" style="display:block" /> | [Stereogram Solver](https://piellardj.github.io/stereogram-solver/) | 🟢 | Décodage de stéréogrammes. |
 
 </details>
