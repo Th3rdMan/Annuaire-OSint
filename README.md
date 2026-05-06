@@ -127,7 +127,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://www.namechk.com/favicon.ico" width="24" height="24" style="display:block" /> | [Namechk](https://namechk.com/) | 🟢 | Vérification de disponibilité de pseudos ou noms sur de multiples réseaux sociaux. |
 | <img src="https://predictalab.com/favicon.ico" width="24" height="24" style="display:block" /> | [Predicta Search](https://www.predictasearch.com/) | 🟡 | Recherche de l’empreinte numérique à partir d’un e-mail ou numéro de téléphone. |
 | <img src="https://www.social-searcher.com/favicon.ico" width="24" height="24" style="display:block" /> | [Social Searcher](https://www.social-searcher.com/) | 🟡 | Recherche de mots, hashtags et profils sur les réseaux sociaux publics. |
-| <img src="https://usersearch.org/favicon.ico" width="24" height="24" style="display:block" /> | [UserSearch](https://usersearch.org/) | 🟢 | Recherche de pseudos ou e-mails sur de nombreux services. |
+| <img src="https://usersearch.com/favicon.ico" width="24" height="24" style="display:block" /> | [UserSearch](https://usersearch.com/) | 🟢 | Recherche de pseudos ou e-mails sur de nombreux services. |
 | <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24" height="24" style="display:block" /> | [WhatsMyName](https://whatsmyname.app/) | 🟡 | Recherche de la présence d’un pseudo sur des centaines de sites. |
 | <img src="https://whopostedwhat.com/favicon.png" width="24" height="24" style="display:block" /> | [Who Posted What?](https://whopostedwhat.com/) | 🟡 | Recherche avancée de publications Facebook par mots-clés, dates, profils, pages ou lieux. |
 
