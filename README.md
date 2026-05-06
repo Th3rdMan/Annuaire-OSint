@@ -161,6 +161,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://builtwith.com/favicon.ico" width="24" height="24" style="display:block" /> | [BuiltWith](https://builtwith.com/fr/) | 🟢 | Analyse technique d’un site web. |
 | <img src="https://images.icon-icons.com/2699/PNG/512/cloudflare_logo_icon_170372.png" width="24" height="24" style="display:block" /> | [Cloudflare Radar](https://radar.cloudflare.com/) | 🟢 | Analyse du trafic et incidents Internet. |
 | <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/09/exploitdb.png" width="24" height="24" style="display:block" /> | [Exploit-DB](https://www.exploit-db.com/) | 🟢 | Recherche d’exploits et vulnérabilités. |
+| <img src="https://ghostarchive.org/favicon.ico" width="24" height="24" style="display:block" /> | [Ghost Archive](https://ghostarchive.org/) | 🟢 | Archivage et consultation de contenus web et réseaux sociaux supprimés ou modifiés. |
 | <img src="https://www.ipqualityscore.com/templates/img/icons/fav/favicon-32x32.png" width="24" height="24" style="display:block" /> | [IPQualityScore](https://www.ipqualityscore.com/ip-reputation-check/) | 🟢 | Vérification de réputation IP. |
 | <img src="https://i.ibb.co/FLwbFsmm/osintsh.png" width="24" height="24" style="display:block" /> | [Osint.sh](https://osint.sh/) | 🟡 | Recherche OSINT multi-sources. |
 | <img src="https://www.shodan.io/static/img/apple-touch-icon-192-4eb04af5.png" width="24" height="24" style="display:block" /> | [Shodan](https://www.shodan.io/) | 🟢 | Recherche d’équipements exposés. |
