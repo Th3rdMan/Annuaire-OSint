@@ -186,6 +186,7 @@ Un concentré de ressources, outils, veille et plateformes pour l’OSINT, le CT
 | <img src="https://haveibeenpwned.com/apple-touch-icon-76x76.png" width="24" height="24" style="display:block" /> | [HaveIBeenPwned](https://haveibeenpwned.com/) | 🟢 | Vérification d’e-mails ou mots de passe dans des fuites de données. |
 | <img src="https://intelx.io/favicon.ico" width="24" height="24" style="display:block" /> | [IntelX](https://intelx.io/) | 🟢 | Recherche de leaks, pastebins, bases compromises et dark web. |
 | <img src="https://leakpeek.com/assets/img/lpfavi.png" width="24" height="24" style="display:block" /> | [LeakPeek](https://leakpeek.com/) | 🟡 | Recherche de leaks, dumps et credentials exposés. |
+| <img src="https://pentester.com/icons/icon-96x96.png" width="24" height="24" style="display:block" /> | [Pentester.com](https://pentester.com/#cta) | 🟡 | Recherche d’exposition liée à une adresse e-mail : credentials, fuites, services associés et empreinte numérique. |
 | <img src="https://www.proxynova.com/favicon.ico" width="24" height="24" style="display:block" /> | [ProxyNova COMB Search](https://www.proxynova.com/tools/comb/) | 🟢 | Recherche dans la base COMB issue de fuites historiques. |
 
 </details>
