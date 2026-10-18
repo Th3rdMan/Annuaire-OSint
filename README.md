@@ -163,7 +163,7 @@ Un concentré de ressources, outils, veille et plateformes pour l'OSINT, le CTF 
 ---
 
 <details>
-<summary><h3>🕵️‍♂️ Recherche de profils, réseaux & identité</h3> &nbsp;<sup>11 outils</sup></summary>
+<summary><h3>🕵️‍♂️ Recherche de profils, réseaux & identité</h3> &nbsp;<sup>12 outils</sup></summary>
 
 <strong>👤 Recherche d'identité, pseudos & empreinte numérique</strong>
 
@@ -174,6 +174,7 @@ Un concentré de ressources, outils, veille et plateformes pour l'OSINT, le CTF 
 | <img src="https://predictalab.com/favicon.ico" width="24" height="24" style="display:block" /> | [Predicta Search](https://www.predictasearch.com/) | 🟡 | Cartographie de l'empreinte numérique à partir d'un e-mail ou numéro de téléphone : profils, services et fuites associés. |
 | <img src="https://usersearch.com/favicon.ico" width="24" height="24" style="display:block" /> | [UserSearch](https://usersearch.com/) | 🟢 | Recherche de pseudos ou d'adresses e-mail sur des centaines de services et réseaux sociaux simultanément. |
 | <img src="https://ctf-osint.aege.fr/files/ac83d4caba18e5a85073fabef767b133/whatsmyname.png" width="24" height="24" style="display:block" /> | [WhatsMyName](https://whatsmyname.app/) | 🟡 | Recherche de la présence d'un pseudo sur des centaines de sites web avec vérification active des résultats. |
+| | [WhatsMyName Apps](https://whatsmynameapps.us/) | 🟢 | Recherche de noms d’utilisateur sur des sites publics depuis le navigateur, sans inscription. Les correspondances doivent être vérifiées manuellement. |
 
 <strong>📱 Réseaux sociaux & SOCMINT</strong>
 
