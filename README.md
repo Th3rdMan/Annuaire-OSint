@@ -62,7 +62,7 @@ Un concentré de ressources, outils, veille et plateformes pour l'OSINT, le CTF 
 ---
 
 <details>
-<summary><h3>🌍 Cartographie & géolocalisation</h3> &nbsp;<sup>13 outils</sup></summary>
+<summary><h3>🌍 Cartographie & géolocalisation</h3> &nbsp;<sup>14 outils</sup></summary>
 
 <strong>🛰️ Imagerie satellite & historique</strong>
 
@@ -79,7 +79,7 @@ Un concentré de ressources, outils, veille et plateformes pour l'OSINT, le CTF 
 | <img src="https://overpass-turbo.eu/assets/favicon.ico" width="24" height="24" style="display:block" /> | [Overpass Turbo](https://overpass-turbo.eu/) | 🟢 | Extraction et analyse avancée de données OpenStreetMap via requêtes personnalisées (POI, routes, bâtiments…). |
 | <img src="https://www.smappen.com/app/vue-assets/cropped-favicon-192x192.png" width="24" height="24" style="display:block" /> | [Smappen](https://www.smappen.com/app/) | 🟡 | Générateur de cartes isochrones : zones d'accessibilité calculées en temps de trajet ou distance à vol d'oiseau. |
 | <img src="https://what3words.com/favicon.ico" width="24" height="24" style="display:block" /> | [What3Words](https://what3words.com/) | 🟢 | Localisation ultra-précise de tout lieu via un code à trois mots — utile pour des coordonnées difficiles à mémoriser. |
-| <img src="https://h1dr4.dev/favicon.ico" width="24" height="24" style="display:block" /> | [H1DR4 Incident Map](https://h1dr4.dev/map) | 🟢 | Carte publique d’incidents pour explorer les signalements par zone et vérifier leurs sources. Les positions de la couche Police.uk sont approximatives et la couverture varie selon le service de police. |
+| <img src="https://h1dr4.dev/favicon.ico" width="24" height="24" style="display:block" /> | [H1DR4 Incident Map](https://h1dr4.dev/map) | 🟢 | Carte publique d’incidents accessible sans compte pour explorer les signalements par zone et vérifier leurs sources. Les positions de la couche Police.uk sont approximatives et la couverture varie selon le service de police. |
 
 <strong>🚶 Vues terrain, photos géolocalisées & webcams</strong>
 
